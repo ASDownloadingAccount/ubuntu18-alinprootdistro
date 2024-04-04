@@ -1,1 +1,1 @@
-#Termux Ubuntu 18.04 file proot-distro
+# Termux Ubuntu 18.04 file for proot-distro
